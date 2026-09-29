@@ -14,7 +14,7 @@ export const GROUPS: ServiceGroup[] = [
       ["Architectural photography", "Lines held straight, light balanced, every room composed for the listing."],
       ["Twilight images", "The exterior at blue hour with windows glowing. The image that stops the scroll."],
       ["Drone film", "Aerial approach, plot and neighbourhood context in 4K."],
-      ["Floor plan", "Measured, labelled plans that make the layout clear before a viewing."],
+      // ["Floor plan", "Measured, labelled plans that make the layout clear before a viewing."],
       ["3D tour", "A walk-through in the browser, at any hour, from any phone."],
     ],
   },
